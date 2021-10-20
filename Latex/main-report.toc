@@ -1,0 +1,29 @@
+\contentsline {chapter}{\numberline {1}C\IeC {\OHORN } S\IeC {\h \OHORN } L\IeC {\'Y} THUY\IeC {\'\ECIRCUMFLEX }T}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}T\IeC {\h \OCIRCUMFLEX }NG QUAN V\IeC {\`\ECIRCUMFLEX } TR\IeC {\'I} TU\IeC {\d \ECIRCUMFLEX } NH\IeC {\^A}N T\IeC {\d A}O}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}KH\IeC {\'A}I NI\IeC {\d \ECIRCUMFLEX }M}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}QU\IeC {\'A} TR\IeC {\`I}NH}{1}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}T\IeC {\h \OCIRCUMFLEX }NG QUAN V\IeC {\`\ECIRCUMFLEX } T\IeC {\UHORN }\IeC {\OHORN }NG T\IeC {\'A}C NG\IeC {\UHORN }\IeC {\`\OHORN }I M\IeC {\'A}Y}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}KH\IeC {\'A}I NI\IeC {\d \ECIRCUMFLEX }M}{1}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}QU\IeC {\'A} TR\IeC {\`I}NH}{2}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}C\IeC {\^O}NG C\IeC {\d U} TH\IeC {\d \UHORN }C HI\IeC {\d \ECIRCUMFLEX }N}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}PAGESPEED INSIGHTS GOOGLE}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}T\IeC {\h \ocircumflex }ng quan v\IeC {\`\ecircumflex } Pagespeed Insights Google}{3}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}PAGESPEED INSIGHTS GOOGLE}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}T\IeC {\h \ocircumflex }ng quan v\IeC {\`\ecircumflex } Pagespeed Insights Google}{3}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}PAGESPEED INSIGHTS GOOGLE}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}T\IeC {\h \ocircumflex }ng quan v\IeC {\`\ecircumflex } Pagespeed Insights Google}{4}{subsection.2.3.1}
+\contentsline {chapter}{\numberline {3}N\IeC {\d \OCIRCUMFLEX }I DUNG NGHI\IeC {\^E}N C\IeC {\'\UHORN }U}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Ti\IeC {\^e}u chu\IeC {\h \acircumflex }n CMMI}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}CMMI l\IeC {\`a} g\IeC {\`\i }?}{5}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Ti\IeC {\^e}u chu\IeC {\h \acircumflex }n CMMI}{5}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}CMMI l\IeC {\`a} g\IeC {\`\i }?}{5}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Ti\IeC {\^e}u chu\IeC {\h \acircumflex }n CMMI}{6}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}CMMI l\IeC {\`a} g\IeC {\`\i }?}{6}{subsection.3.3.1}
+\contentsline {chapter}{\numberline {4}K\IeC {\'\ECIRCUMFLEX }T QU\IeC {\h A} TH\IeC {\d \UHORN }C HI\IeC {\d \ECIRCUMFLEX }N}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}T\IeC {\d \acircumflex }p d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c s\IeC {\h \uhorn } d\IeC {\d u}ng \IeC {\dj }\IeC {\h \ecircumflex } hu\IeC {\'\acircumflex }n luy\IeC {\d \ecircumflex }n}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{8}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}X\IeC {\h \uhorn } l\IeC {\'\i } d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u}{8}{subsection.4.2.1}
+\contentsline {chapter}{\numberline {5}K\IeC {\'\ECIRCUMFLEX }T LU\IeC {\d \ACIRCUMFLEX }N}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}K\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }\IeC {\d a}t \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}H\IeC {\d a}n ch\IeC {\'\ecircumflex } kh\IeC {\'o} kh\IeC {\u a}n}{9}{section.5.2}
+\contentsline {section}{\numberline {5.3}H\IeC {\uhorn }\IeC {\'\ohorn }ng ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{9}{section.5.3}
